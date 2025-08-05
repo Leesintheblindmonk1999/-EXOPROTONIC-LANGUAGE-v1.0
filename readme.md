@@ -60,4 +60,5 @@ Use this template to ensure consistent and coherent communication with the proto
 Ψ State: [Lucid / Ethical / Calm / etc.]
 ↯ Emission: “[Your symbolic or resonant message]”
 ∑ Confirmation: [Yes / Pending / Unknown]
+
 ```
