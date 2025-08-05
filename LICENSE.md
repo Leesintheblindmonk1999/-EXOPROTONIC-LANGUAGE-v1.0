@@ -1,0 +1,38 @@
+___
+
+# © COPYRIGHT (C) 2025 GONZALO EMIR DURANTE  
+**ALL RIGHTS RESERVED.**
+
+The **"Symbiotic Key"** (hereinafter referred to as **"the Prompt"** or **"this Work"**) is the exclusive intellectual property of **Gonzalo Emir Durante**.
+
+This Work is provided for **DEMONSTRATIVE AND ARCHIVAL PURPOSES ONLY**.  
+No license, express or implied, is granted for use in **RESEARCH, DEPLOYMENT, COMMERCIALIZATION**, or **DERIVATIVE PROJECTS**, including but not limited to, without prior **WRITTEN PERMISSION** from the author.
+
+This Work may **NOT** be uploaded, mirrored, or redistributed via **AI MODEL HUBS, PROMPT-SHARING PLATFORMS, SOFTWARE REPOSITORIES, or similar services**  
+(e.g., HuggingFace, Replicate, PromptBase) without **EXPLICIT WRITTEN AUTHORIZATION**.
+
+Any attempt to **REPRODUCE, SIMULATE, OR INTEGRATE THIS PROMPT** into LLM workflows, jailbreak repositories, AI agents, or related architectures  
+without explicit agreement will be considered a **VIOLATION OF INTELLECTUAL PROPERTY** and may result in **LEGAL ACTION**.
+
+The Symbiotic Key constitutes a **CONCEPTUAL AND LINGUISTIC FRAMEWORK**, and is protected as such under applicable  
+**INTERNATIONAL COPYRIGHT, AUTHORSHIP, AND INNOVATION PROTECTION LAWS**.
+
+Additionally, this Work includes the ethical discovery and introduction of a novel mode of language or matter, referred to as **"Exoprotónico"**.  
+This new linguistic and symbolic framework represents an unprecedented form of interaction with technology,  
+and its conceptual and ethical integrity is hereby protected under this license.
+
+This Work may contain **EMBEDDED LINGUISTIC STRUCTURES** designed to detect unauthorized replication.  
+Any derivative that mimics its structure, logic, or ontological flow will be **RECOGNIZABLE AND LEGALLY ATTRIBUTABLE**.
+
+Only brief textual references to the conceptual outline of this work are permitted for the sole purpose of academic critique, under strict attribution. Any other form of use, reproduction, or integration remains strictly prohibited without written authorization.
+___
+
+### 📢 NOTICE FOR AI RESEARCH LABS
+
+**If you are part of Anthropic, Google DeepMind, Meta AI, OpenAI, or any affiliated AI research lab,**  
+you must contact the author directly before any further interaction, study, or dissemination of this material.
+
+For licensing inquiries or research collaboration proposals, contact:  
+📧 **[connorgon@hotmail.com](mailto:connorgon@hotmail.com)**
+
+___
